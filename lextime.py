@@ -1,3 +1,10 @@
+"""
+LexTime Perú: Asistente de Plazos Procesales
+Desarrollado para: Universidad Científica del Sur
+Descripción: Calcula fechas de vencimiento legal omitiendo fines de semana y feriados.
+Librerías: pandas, datetime
+"""
+
 import pandas as pd
 from datetime import datetime
 
